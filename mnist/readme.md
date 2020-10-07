@@ -9,4 +9,4 @@ An image classifier for MNIST data sets.
 | KMNIST | ~ 97.9% |
 | QMNIST | ~ 99.4% |
 
-### [MNIST Classifier ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/katipber/vision/mnist/blob/master/MNIST.ipynb)
+### [MNIST Classifier ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/katipber/vision/blob/main/mnist/MNIST.ipynb)
